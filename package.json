@@ -1,11 +1,9 @@
 {
   "name": "weather-webapp",
   "version": "1.0.0",
-  "homepage": "https://daramayo90.github.io/weather-webapp/",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "deploy": "gh-pages -d .",
     "start": "nodemon app.js"
   },
   "repository": {
